@@ -1,0 +1,382 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f6\fnil\fprq2\fcharset0 Arial;}{\f7\fswiss\fprq0\fcharset128 Arial;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\s0\snext0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052 Normal;}
+{\s15\sbasedon0\snext16\rtlch\af6\afs28 \ltrch\hich\af4\loch\sb240\sa120\keepn\f4\fs28\dbch\af5 T\u237\'edtulo;}
+{\s16\sbasedon0\snext16\loch\sl276\slmult1\sb0\sa140 Body Text;}
+{\s17\sbasedon16\snext17\rtlch\af7 \ltrch List;}
+{\s18\sbasedon0\snext18\rtlch\af7\afs24\ai \ltrch\loch\sb120\sa120\noline\fs24\i caption;}
+{\s19\sbasedon0\snext19\rtlch\af7 \ltrch\loch\noline \u205\'cdndice;}
+}{\*\generator LibreOffice/25.2.5.1$Windows_X86_64 LibreOffice_project/484541f705153d4ff78284873b0153c3e5a280db}{\info{\creatim\yr2025\mo9\dy21\hr15\min14}{\revtim\yr2025\mo9\dy21\hr15\min14}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab709
+\hyphauto1\viewscale100\formshade\nobrkwrptbl\paperh16838\paperw11906\margl1134\margr1134\margt1134\margb1134\sectd\sbknone\sftnnar\saftnnrlc\sectunlocked1\pgwsxn11906\pghsxn16838\marglsxn1134\margrsxn1134\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\fet\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# WANDA Website - Git Ignore File}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== SYSTEM FILES =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# macOS}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.DS_Store}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.DS_Store?}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+._*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.Spotlight-V100}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.Trashes}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+ehthumbs.db}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+Thumbs.db}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Windows}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.tmp}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.temp}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+desktop.ini}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Linux}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*~}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== EDITOR FILES =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# VS Code}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.vscode/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+!.vscode/settings.json}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+!.vscode/tasks.json}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+!.vscode/launch.json}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+!.vscode/extensions.json}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Cursor}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.cursor/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Sublime Text}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.sublime-project}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.sublime-workspace}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Vim}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.swp}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.swo}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*~}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Emacs}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*~}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+\\#*\\#}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+/.emacs.desktop}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+/.emacs.desktop.lock}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.elc}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+auto-save-list}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+tramp}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.\\#*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# JetBrains IDEs}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.idea/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.iml}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.iws}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== NODE.JS =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+node_modules/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+npm-debug.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+yarn-debug.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+yarn-error.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+package-lock.json}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+yarn.lock}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Runtime data}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+pids}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.pid}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.seed}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.pid.lock}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Coverage directory used by tools like istanbul}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+coverage/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== BUILD & DIST =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+dist/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+build/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+out/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.next/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.nuxt/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.cache/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.parcel-cache/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== ASSETS & TEMP FILES =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Large media files (comment out if you want to track them)}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# *.mov}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# *.mp4}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# *.avi}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# *.mkv}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# *.webm}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Temp image files}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.tmp.jpg}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.tmp.png}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.tmp.svg}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Generated favicons}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+/assets/images/favicons/generated/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Optimized images}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+/assets/images/optimized/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== LOGS =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+logs}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.log}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+npm-debug.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+yarn-debug.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+yarn-error.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+lerna-debug.log*}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== ENVIRONMENT & CONFIG =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.env}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.env.local}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.env.development.local}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.env.test.local}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.env.production.local}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Config files with sensitive data}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+config.local.js}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+config.prod.js}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== TESTING =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.nyc_output}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+coverage/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.lcov}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== DEPLOYMENT =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Netlify}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.netlify/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Vercel}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.vercel/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Firebase}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.firebase/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+firebase-debug.log}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== DATABASE =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.db}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.sqlite}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.sqlite3}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== BACKUPS =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.backup}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.bak}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.old}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+backup/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+backups/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== DOCUMENTATION =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Auto-generated docs}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+docs/generated/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+/docs/.vuepress/dist}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== SPECIFIC TO PROJECT =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Local development server files}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.local-server/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# User-uploaded content (if implemented)}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+uploads/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+user-content/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Analytics and tracking files}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+analytics/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+tracking/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Email templates compiled}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+email-templates/compiled/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== SECURITY =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# SSL certificates}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.pem}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.key}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.crt}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+*.p12}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# API keys and secrets}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+secrets.json}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+.secrets}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# ===== PERFORMANCE =====}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Lighthouse reports}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+lighthouse-reports/}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar\loch
+
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+# Bundle analyzer reports}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+bundle-report.html}
+\par \pard\plain \s0\rtlch\af6\afs24\alang1081 \ltrch\lang11274\langfe2052\hich\af3\loch\widctlpar\hyphpar0\ltrpar\cf0\f3\fs24\lang11274\kerning1\dbch\af8\langfe2052\ql\ltrpar{\loch
+webpack-bundle-analyzer.json}
+\par }
